@@ -1,0 +1,8 @@
+Dear {Name},
+
+I am writing to express my strong interest in the {Role} position at {Company}. As a student passionate about this field, I have been following {Company}'s recent achievements and would love the opportunity to contribute my skills to your team.
+
+I have attached my resume for your review. Thank you for your time and consideration.
+
+Best regards,
+{SENDER_NAME}
